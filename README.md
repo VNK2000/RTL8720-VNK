@@ -19,7 +19,8 @@
 | PA27      | up Button      |
 | PB3      | OK Button      |
 | PA15      | Back Button      |
-All buttons share `GND` pin with `RTL8720DN BW16` modules.
+
+- All buttons share `GND` pin with `RTL8720DN BW16` modules.
 
 |   **Lưu ý:**    |
 - bàn phím pass : sử dụng up down để lựa chọn số, back để xoá pass nhập sai , ấn ok một lần một để nhập pass ấn dữ để xác nhận pass ấn
