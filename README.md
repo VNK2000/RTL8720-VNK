@@ -1,4 +1,4 @@
-    
+HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH 📩
 | **RTL8720DN BW16 5ghz**            |
 |-----------------------|
                          
