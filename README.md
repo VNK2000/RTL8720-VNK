@@ -29,14 +29,15 @@ HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH 📩
 + mã reset pass khi bạn quên pass khởi động ib riêng tôi
 -bạn vào setting để sửa đổi pass vĩnh viễn.
 - sử dụng nút back để bật màn hình sáng lên khi tắt sau 5 phút không sử dụng.
-+ chức năng chính:
+- 
+ **chức năng chính:**
 1. Tự động bật đồng hồ sau 3 phút không sử dụng.
 2.Tự động tắt màn hình
 sau 5 phút không sử dụng.
 3. Xác thực bảo mật wifi theo danh sách 2 băng tần
 4.xác thực bảo mật tất cả 2 băng tần
 5. Live sóng 2 băng tần kiểm tra xem bị nhiễu không
-6.
+6...
 7.clock
 8.game giải trí
 9 .setting
