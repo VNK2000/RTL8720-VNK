@@ -35,9 +35,9 @@ HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH 📩
 2. Tự động tắt màn hình.
 sau 5 phút không sử dụng.
 3. Xác thực bảo mật wifi theo danh sách 2 băng tần.
-4.xác thực bảo mật tất cả 2 băng tần
-5. Live sóng 2 băng tần kiểm tra xem bị nhiễu không.
-6. máy tính 
+4. xác thực bảo mật tất cả 2 băng tần.
+5. Live sóng 2 băng tần.
+6. máy tính.
 7. clock.
 8. game giải trí.
 9. setting.
