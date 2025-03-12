@@ -47,7 +47,8 @@ sau 5 phút không sử dụng.
 13. bộ chuyển đổi đơn vị.
 14. bộ đếm thời gian.
 15. best mode
-16. .......continue 
+16. combo mode
+17. .......continue 
 
 
 
