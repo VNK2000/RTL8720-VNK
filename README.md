@@ -1,4 +1,4 @@
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH 444 CÁ IB ĐẶT HÀNG 📩
+HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩444🌾
 | **RTL8720DN BW16 5ghz**            |
 |-----------------------|
                          
