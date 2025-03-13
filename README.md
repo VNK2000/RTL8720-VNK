@@ -15,10 +15,10 @@ HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH 444 CÁ I
 
 | **RTL8720DN BW16**         | **Buttons**          |
 |-----------------------|-----------------------|
-| PB1     | down Button    |
-| PA27      | up Button      |
-| PB3      | OK Button      |
-| PA30      | Back Button      |
+| PB1     | K1   |
+| PA27      | K2      |
+| PB3      | K3      |
+| PA30      | K4      |
 
 - All buttons share `GND` pin with `RTL8720DN BW16` modules.
 
