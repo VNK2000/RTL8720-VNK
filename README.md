@@ -50,7 +50,8 @@ sau 5 phút không sử dụng.
 14. bộ đếm thời gian.
 15. best mode
 16. combo mode
-17. .......continue 
+17. blue jemming vs esp32 
+18. .......continue 
 
 
 
