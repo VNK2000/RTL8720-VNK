@@ -1,4 +1,4 @@
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩444🌾
+HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩650🌾
 ### https://www.tiktok.com/@vnk_id113
 
 | **RTL8720DN BW16 5ghz**            |
