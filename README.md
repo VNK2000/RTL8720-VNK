@@ -50,7 +50,7 @@ sau 5 phút không sử dụng.
 14. bộ đếm thời gian.
 15. best mode
 16. combo mode
-17. blue jemming kết nối esp32c3 mini 
+17. blue jemming kết nối esp32c3 nrf24 e01 mini 
 18. .......continue 
 
 
