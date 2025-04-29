@@ -39,19 +39,20 @@ sau 5 phút không sử dụng.
 3. Xác thực bảo mật wifi theo danh sách 2 băng tần.
 4. xác thực bảo mật tất cả 2 băng tần.
 5. Live sóng radar 2 băng tần.
-6. máy tính.
+6. app máy tính.
 7. clock.
 8. game giải trí.
 9. setting.
 10. phát wifi ảo 100ssid theo tùy chọn
 11. phát theo input nhập 80 ssid ở bàn phím ảo.
 12. Lúc đầu vừa khởi động lần đầu sẽ phải tạo pass muốn thay đổi pass vào cài đặt.
-13. bộ chuyển đổi đơn vị.
-14. bộ đếm thời gian.
+13. app bộ chuyển đổi đơn vị.
+14. app bộ đếm thời gian.
 15. best mode
 16. combo mode
-17. blue jemming kết nối esp32c3 nrf24 e01 mini 
-18. .......continue 
+17. blue jemming kết nối esp32c3 nrf24 e01 mini
+18. app Từ vựng tiếng anh
+19. .......continue 
 
 
 
