@@ -28,7 +28,7 @@ sau 5 phút không sử dụng.
 14. app bộ đếm thời gian.
 15. best mode
 16. combo mode
-17. blue jammer nrf24 e01 mini
+17. blue jammer nrf24 e01 siêu mạnh 
 18. app Từ vựng tiếng anh
 19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣
 20. .......continue 
