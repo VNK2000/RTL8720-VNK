@@ -14,9 +14,9 @@ HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT
 1. Tự động bật đồng hồ sau 3 phút không sử dụng.
 2. Tự động tắt màn hình.
 sau 5 phút không sử dụng.
-3. Xác thực bảo mật wifi theo danh sách 2 băng tần.
-4. xác thực bảo mật tất cả 2 băng tần.
-5. Live sóng radar 2 băng tần.
+3. Xác thực bảo mật wifi theo danh sách 2 băng tần 5ghz 2.4ghz siêu mạnh.
+4. xác thực bảo mật tất cả 2 băng tần 5ghz 2.4ghz siêu mạnh .
+5. Live sóng radar 2 băng tần 5ghz 2.4ghz.
 6. app máy tính.
 7. clock.
 8. game giải trí.
@@ -31,7 +31,7 @@ sau 5 phút không sử dụng.
 17. blue jammer nrf24 e01 siêu mạnh 
 18. app Từ vựng tiếng anh
 19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣
-20. .......continue 
+20. .......continue update theo ý tưởng từng ngày 
 
 
 
