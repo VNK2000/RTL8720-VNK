@@ -1,7 +1,10 @@
 HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩800🌾
 ### https://www.tiktok.com/@vnk_id113
+WEBSITE NẠP FIRMWARE ONLINE PC
 ### https://nhobantuongtac.pro.vn/IOT/
+WEBSITE CHUYỂN ĐỔI GIF
 ### https://nhobantuongtac.pro.vn/VNK/
+WEBSITE FONT IOT
 ### https://nhobantuongtac.pro.vn/font/
 
 | **RTL8720DN BW16 5ghz**            |
