@@ -26,8 +26,8 @@ sau 5 phút không sử dụng.
 12. Lúc đầu vừa khởi động lần đầu sẽ phải tạo pass muốn thay đổi pass vào cài đặt.
 13. app bộ chuyển đổi đơn vị.
 14. app bộ đếm thời gian.
-15. best mode
-16. combo mode
+15. best mode wifi nhỏ giọt ức chế 
+16. combo mode wifi tăng đàn sức mạnh 
 17. blue jammer nrf24 e01 siêu mạnh 
 18. app Từ vựng tiếng anh
 19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣
