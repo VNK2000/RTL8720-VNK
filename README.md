@@ -1,4 +1,4 @@
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩800🌾
+HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩800🌾 số lượng không có 🤣
 ### https://www.tiktok.com/@vnk_id113
 WEBSITE NẠP FIRMWARE ONLINE PC
 ### https://nhobantuongtac.pro.vn/IOT/
