@@ -34,7 +34,8 @@ sau 5 phút không sử dụng.
 17. blue jammer nrf24 e01 siêu mạnh 
 18. app Từ vựng tiếng anh
 19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣
-20. .......continue update theo ý tưởng từng ngày 
+20. update màn 1.3
+21. .......continue update theo ý tưởng từng ngày 
 
 
 
