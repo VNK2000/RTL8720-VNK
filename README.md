@@ -2,7 +2,8 @@ acc duy nhất được ủy quyền bán RTL8720 VNK 1.3icnh
 ### https://www.tiktok.com/@bili.bili0105
 
 
-_______________
+______________
+tiktok GPIO VNK
 ### https://www.tiktok.com/@vnk_id113
 WEBSITE NẠP FIRMWARE ONLINE PC
 ### https://nhobantuongtac.pro.vn/IOT/
