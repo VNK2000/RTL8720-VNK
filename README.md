@@ -1,4 +1,8 @@
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI MUA SẢN PHẨM HOÀN CHỈNH IB ĐẶT HÀNG 📩800🌾 số lượng không có 🤣
+acc duy nhất được ủy quyền bán RTL8720 VNK 1.3icnh 
+### https://www.tiktok.com/@bili.bili0105
+
+
+_______________
 ### https://www.tiktok.com/@vnk_id113
 WEBSITE NẠP FIRMWARE ONLINE PC
 ### https://nhobantuongtac.pro.vn/IOT/
