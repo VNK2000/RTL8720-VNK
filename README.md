@@ -33,12 +33,13 @@ sau 5 phút không sử dụng.
 13. app bộ chuyển đổi đơn vị.
 14. app bộ đếm thời gian.
 15. best mode wifi nhỏ giọt ức chế 
-16. combo mode wifi tăng đàn sức mạnh 
+16. combo mode wifi tăng đàn sức mạnh .
 17. blue jammer nrf24 e01 siêu mạnh 
-18. app Từ vựng tiếng anh
-19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣
-20. update màn 1.3
-21. .......continue update theo ý tưởng từng ngày 
+18. app Từ vựng tiếng anh.
+19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣.
+20. update màn 1.3.
+21. Anime .
+22. .......continue update theo ý tưởng từng ngày 
 
 
 
