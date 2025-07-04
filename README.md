@@ -1,6 +1,3 @@
-acc duy nhất được ủy quyền bán RTL8720 VNK 1.3icnh 
-### https://www.tiktok.com/@bili.bili0105
-
 
 ______________
 tiktok GPIO VNK
@@ -38,8 +35,9 @@ sau 5 phút không sử dụng.
 18. app Từ vựng tiếng anh.
 19. update 6 nút giao diện hiện đại mượt mà chơi game thả ga🤣.
 20. update màn 1.3.
-21. Anime .
-22. .......continue update theo ý tưởng từng ngày 
+21. wisai Anime .
+22. update nhiều game fix game.
+24. .......continue update theo ý tưởng từng ngày 
 
 
 
