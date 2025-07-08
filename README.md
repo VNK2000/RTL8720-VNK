@@ -37,7 +37,10 @@ sau 5 phút không sử dụng.
 20. update màn 1.3.
 21. wisai Anime .
 22. update nhiều game fix game.
-24. .......continue update theo ý tưởng từng ngày 
+23. trò chơi toán học
+24. app vẽ tranh
+25. app thời khoá biểu lưu trữ và nhập trên rtl có sáng và chiều.
+26. .......continue update theo ý tưởng từng ngày 
 
 
 
